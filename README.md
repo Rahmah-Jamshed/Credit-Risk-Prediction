@@ -1,7 +1,6 @@
 # 📊 Logistic Regression Model – Credit Risk Prediction (HMEQ Dataset)
 
 This project applies a **Logistic Regression** model to the **HMEQ (Home Equity Loan Default)** dataset to predict whether a loan applicant will **default (BAD = 1)** or not (**BAD = 0**).  
-The objective is to build an interpretable, statistically valid model for **credit-risk analysis**, commonly used by banks and lending institutions.
 
 ---
 
